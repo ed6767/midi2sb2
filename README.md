@@ -1,3 +1,6 @@
+### Depreciated...
+###### I am no longer working on this project and haven't for a while. This should still work but I'm not making updates.
+
 # midi2sb2
 Converts MIDI to a Scratch 2.0 Project<br>
 Based off Chooper100's MIDI converter<a href="https://github.com/chooper100/MIDI-Importer"> here</a>
